@@ -1,8 +1,8 @@
 <html>
-<link href="C:\Users\4164203\Documents\test.css" rel="stylesheet">
+<link href="https://github.com/aminovalue/SECCONBeginners2017/blob/master/test.css" rel="stylesheet">
 <body>
 <h2 class="top">SECCONについての振り返り</h2>
-<img src="C:\Users\4164203\Downloads\TMgK36q4.jpg">
+<img src="https://github.com/aminovalue/SECCONBeginners2017/blob/master/TMgK36q4.jpg">
 
 ---
 <h2 class="title">やったこと</h2>
